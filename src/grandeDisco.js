@@ -18,5 +18,6 @@ function Model(props) {
     </group>
   )
 }
+useGLTF.preload('./models/grandeDisco.glb')
 
 export default Model;
