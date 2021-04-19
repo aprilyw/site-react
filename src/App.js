@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Model from "./grandeDisco"
 import {Canvas} from "@react-three/fiber"
